@@ -1,0 +1,10 @@
+/home/zerocool/workspace/CoreSampleEdx/TestApp/bin/Debug/netcoreapp2.0/TestApp.deps.json
+/home/zerocool/workspace/CoreSampleEdx/TestApp/bin/Debug/netcoreapp2.0/TestApp.runtimeconfig.json
+/home/zerocool/workspace/CoreSampleEdx/TestApp/bin/Debug/netcoreapp2.0/TestApp.runtimeconfig.dev.json
+/home/zerocool/workspace/CoreSampleEdx/TestApp/bin/Debug/netcoreapp2.0/TestApp.dll
+/home/zerocool/workspace/CoreSampleEdx/TestApp/bin/Debug/netcoreapp2.0/TestApp.pdb
+/home/zerocool/workspace/CoreSampleEdx/TestApp/obj/Debug/netcoreapp2.0/TestApp.csproj.CoreCompileInputs.cache
+/home/zerocool/workspace/CoreSampleEdx/TestApp/obj/Debug/netcoreapp2.0/TestApp.AssemblyInfoInputs.cache
+/home/zerocool/workspace/CoreSampleEdx/TestApp/obj/Debug/netcoreapp2.0/TestApp.AssemblyInfo.cs
+/home/zerocool/workspace/CoreSampleEdx/TestApp/obj/Debug/netcoreapp2.0/TestApp.dll
+/home/zerocool/workspace/CoreSampleEdx/TestApp/obj/Debug/netcoreapp2.0/TestApp.pdb
