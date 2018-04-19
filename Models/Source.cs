@@ -1,13 +1,12 @@
 
 
 namespace TestApp.Models {
-    public class CreateOrUpdate {
+    public class Movie {
         public int ID { get; set; }
         public string Name { get; set; }
         public int Year { get; set; }
         public Genres [] Genre { get; set; }
-        public bool IsInStore { get; set; }
-        public Operations Operation { get; set; }     
+        public bool IsInStore { get; set; }    
     }
 
     public enum Genres {
@@ -17,11 +16,4 @@ namespace TestApp.Models {
         Drama,
         War
     }
-
-    public enum Operations {
-        Create,
-        Update,
-        Delete
-    }
-
 }

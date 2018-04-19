@@ -1,7 +1,7 @@
 <html>
     <body>
         <div>
-            <form action="CreateOrUpdate" method="POST">
+            <form action="CreateFilm" method="POST">
                 <span>ID:</span>
                 <input type="text" name="id" /><br />
                 <span>Name:</span>
@@ -18,10 +18,9 @@
                 <input type="checkbox" name="genre" value="comedy"><span>Comedy</span>
                 <input type="checkbox" name="genre" value="war"><span>War</span><br />
                 <span>InStore:</span>
-                <input type="radio" value="true"><span>Yes</span>
+                <input type="radio" name="isInStore" value="true"><span>Yes</span>
                 <input type="radio" value="false"><span>No</span><br />
-                <input type="submit" name="operation" value="update" /><span>Update</span>
-                <input type="submit" name="operation" value="create" /><span>Create</span>
+                <input type="submit" name="operation" value="create" />
             </form>
         </div>
     </body>

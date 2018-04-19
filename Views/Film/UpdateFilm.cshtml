@@ -1,0 +1,27 @@
+﻿<html>
+<body>
+    <div>
+        <form action="UpdateFilm" method="POST">
+            <span>ID:</span>
+            <input type="text" name="id" /><br />
+            <span>Name:</span>
+            <input type="text" name="name" /><br />
+            <span>Year:</span>
+            <select name="year">
+                <option value="2015">2015</option>
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
+            </select><br />
+            <span>Genre</span>
+            <input type="checkbox" name="genre" value="action"><span>Action</span>
+            <input type="checkbox" name="genre" value="comedy"><span>Comedy</span>
+            <input type="checkbox" name="genre" value="war"><span>War</span><br />
+            <span>InStore:</span>
+            <input type="radio" name="isInStore" value="true"><span>Yes</span>
+            <input type="radio" name="isInStore" value="false"><span>No</span><br />
+            <input type="submit" name="operation" value="update" />
+        </form>
+    </div>
+</body>
+</html>
